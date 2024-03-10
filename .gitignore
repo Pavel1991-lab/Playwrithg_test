@@ -5,6 +5,12 @@ __pycache__/
 
 # C extensions
 *.so
+# Ignore pytest cache
+pytest_cache/
+# Ignore pytest cache
+.pytest_cache/
+# Ignore pytest cache
+.pytest_cache
 
 # Distribution / packaging
 .Python
